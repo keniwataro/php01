@@ -1,0 +1,51 @@
+{
+    "山田太郎": {
+        "kokugo": "45",
+        "sugaku": "60",
+        "rika": "42",
+        "syakai": "62",
+        "eigo": "15"
+    },
+    "田中一郎": {
+        "kokugo": "5",
+        "sugaku": "3",
+        "rika": "4",
+        "syakai": "6",
+        "eigo": "7"
+    },
+    "岩田健": {
+        "kokugo": "93",
+        "sugaku": "96",
+        "rika": "98",
+        "syakai": "94",
+        "eigo": "96"
+    },
+    "緒方夏子": {
+        "kokugo": "34",
+        "sugaku": "74",
+        "rika": "14",
+        "syakai": "93",
+        "eigo": "44"
+    },
+    "江藤愛": {
+        "kokugo": "35",
+        "sugaku": "74",
+        "rika": "84",
+        "syakai": "27",
+        "eigo": "74"
+    },
+    "加藤秋": {
+        "kokugo": "35",
+        "sugaku": "14",
+        "rika": "5",
+        "syakai": "75",
+        "eigo": "64"
+    },
+    "木島三郎": {
+        "kokugo": "25",
+        "sugaku": "63",
+        "rika": "45",
+        "syakai": "14",
+        "eigo": "57"
+    }
+}
